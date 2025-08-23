@@ -1,0 +1,1 @@
+Polyphenols can't be broken down by the body and therefore interact with the microbiome. What have reductions in polyphenols done to society? Study showed that pest attack on raspberry plant increased the levels of polyphenols (or phytochemicals?)

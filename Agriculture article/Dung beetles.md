@@ -1,0 +1,1 @@
+Dung beetles are one of the most diverse and functionally important organisms. Their benefit arises mainly from burying organic matter[https://www.nature.com/articles/s41598-022-05616-x?fromPaywallRec=false](nature paper). The main benefit from this is soil quality but also [[GHG]] emissions. [[silvopasture]] systems 

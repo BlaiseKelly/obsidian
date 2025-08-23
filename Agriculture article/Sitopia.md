@@ -1,0 +1,1 @@
+Sitopianism is based on the simple premise that by valuing food we value life, By letting food be out  guide we can create a practical, adaptable, universal plan B Good food as Epicurius 
