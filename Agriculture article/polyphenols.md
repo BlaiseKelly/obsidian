@@ -1,1 +1,2 @@
 Polyphenols can't be broken down by the body and therefore interact with the microbiome. What have reductions in polyphenols done to society? Study showed that pest attack on raspberry plant increased the levels of polyphenols (or phytochemicals?)
+Polyphenol levels in urine have been determined to be a reliable marker of polyphenol intake. Levels in adolescents has been directly correlated with cardiovascular health markers that predict future https://www.nature.com/articles/s41598-022-19684-6

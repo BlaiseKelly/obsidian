@@ -1,1 +1,2 @@
 Sometimes also called the [[woodwide web]] [https://www.nationalforests.org/blog/underground-mycorrhizal-network]  due to its function as a communication network. Helps crops to transfer nutrients and also signal to each other insect attacks etc.. Studies have shown plants that are undergoing [[pest]] attacks have higher levels of [[phytochemicals]]  Indeed there are also studies looking at the posibilities of using mycelium for communication ourselves. 
+Scientists have been trying to 

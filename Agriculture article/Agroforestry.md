@@ -1,0 +1,2 @@
+Converting just 15 - 25% of field area to trees did not affect production and actually increased it in some areas.
+“At the very least, the extra grazing production resulting from the shade, shelter, biodiversity and cleaner water, compensates for the land taken out of production with trees.” https://www.wool.com/globalassets/wool/land/biodiversity/accordion-1/lww_veg_wool-production-and-biodiversity-the-hill.pdf

@@ -1,0 +1,3 @@
+Farmer grew Wheat two equal areas, one with cover crops and one without [[glyphosphate]]. The yields were equal, but cover crop had 60% more [[mangnese]], [[Zinc]], thought to be from interactions of microbes in soil.
+Balfour founded soil association, did lots of experiments. Land farmed [[organically]] and with livestock absorbed more water and the hummus content grew whereas conventionally farmed field fell. Plant available [[nitrogen]] went up, whereas chemically added didn't. They described applications as wasteful crops took less than half of what was applied and rest went into rivers. 
+I was thinking about Sri Lanka, decided to go organic overnight and created problems for government.

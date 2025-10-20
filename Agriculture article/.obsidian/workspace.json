@@ -54,32 +54,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human health.md",
+                "file": "Agroforestry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human health"
+              "title": "Agroforestry"
+            }
+          },
+          {
+            "id": "5211d649b7ade983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grazing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grazing"
+            }
+          },
+          {
+            "id": "e57bfcece6212928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coplanting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coplanting"
+            }
+          },
+          {
+            "id": "6973534d52f5eb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "omega 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "omega 3"
+            }
+          },
+          {
+            "id": "a5a9df06dadd239f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Price.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Price"
+            }
+          },
+          {
+            "id": "11c9c343c7a76fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesticides.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pesticides"
+            }
+          },
+          {
+            "id": "16104d2ff3b146e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mycorrhizal network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mycorrhizal network"
+            }
+          },
+          {
+            "id": "468fc0241b64c396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climate resiliance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Climate resiliance"
+            }
+          },
+          {
+            "id": "de0007f4180a40f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zoopharmacognosy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zoopharmacognosy"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "2687fe87b0fe01df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f8d03ffc234c0807",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -227,17 +323,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "58d2525ac1396a34",
+  "active": "de0007f4180a40f5",
   "lastOpenFiles": [
-    "Sitopia.md",
-    "Human health.md",
-    "polyphenols.md",
+    "Coplanting.md",
     "phytochemicals.md",
-    "Pasted image 20250823193823.png",
+    "phytosterols.md",
+    "Human health.md",
+    "Mixing animals.md",
+    "polyphenols.md",
+    "Sourdough.md",
+    "Climate resiliance.md",
     "mycorrhizal network.md",
-    "silvopasture.md",
-    "Dung beetles.md",
     "Agroforestry.md",
-    "Dung beetles.base"
+    "Dung beetles.base",
+    "Dung beetles.md",
+    "Price.md",
+    "Pesticides.md",
+    "Grazing.md",
+    "omega 3.md",
+    "zoopharmacognosy.md",
+    "silvopasture.md",
+    "Sitopia.md",
+    "Pasted image 20250823193823.png"
   ]
 }

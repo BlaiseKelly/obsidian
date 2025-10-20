@@ -1,0 +1,1 @@
+The behaviour of animals where they self medicate by imngesting or topically applying plants, soils and insects and can be preventative (prophylactic) or curative (theraputic). 
