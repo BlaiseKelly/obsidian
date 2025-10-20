@@ -1,0 +1,58 @@
+---
+title: "Obsidian Graph"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: graph
+#| include: true
+
+library(tidyverse)
+library(visNetwork)
+
+# Path to your vault
+vault_path <- "Agriculture article"
+
+# Get all markdown files
+files <- list.files(vault_path, pattern = "\\.md$", full.names = TRUE)
+
+# Extract links
+edges <- map_dfr(files, function(f) {
+  text <- readLines(f, warn = FALSE)
+  links <- str_extract_all(text, "\\[\\[([^\\]]+)\\]\\]") %>% unlist()
+  tibble(
+    from = tools::file_path_sans_ext(basename(f)),
+    to = str_remove_all(links, "\\[|\\]")
+  )
+}) %>%
+  filter(to != "") %>%
+  distinct()
+
+edges <- edges %>%
+  mutate(across(c(from, to), tolower))
+
+edges <- edges %>%
+  mutate(to = basename(to))
+
+# Build node list safely
+all_nodes <- unique(c(edges$from, edges$to))
+nodes <- tibble(id = all_nodes)
+
+visNetwork(nodes, edges) %>%
+  visNodes(color = list(border = "black")) %>%
+  visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE)
+
+# # --- Create visNetwork graph ---
+# visNetwork(nodes, edges, main = "My Obsidian Graph") %>%
+#   visNodes(shape = "dot", size = 20) %>%
+#   visGroups(groupname = "energy", color = "lightgreen") %>%
+#   visGroups(groupname = "policy", color = "orange") %>%
+#   visGroups(groupname = "urban", color = "lightblue") %>%
+#   visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE)
+```
+
+

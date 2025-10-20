@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Quarto Site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: graph.qmd
+        text: Graph
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
